@@ -1,5 +1,5 @@
 import cohere
-co = cohere.Client('{Tk1YrfGVYRLliKkd87SryJboA9E5h6AImryTZXgK}')
+co = cohere.Client('{key}')
 print('Enter your Product name:')
 Product = input()
 print('Enter Keywords:')
